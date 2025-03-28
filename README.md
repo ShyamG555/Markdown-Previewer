@@ -21,15 +21,15 @@
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3 (Flexbox for layout)
-- JavaScript (ES6)
+- HTML
+- CSS
+- JavaScript 
 - [marked.js](https://marked.js.org/) (Lightweight Markdown parser)
 
 
 ## 🌟 Live Demo
 
-Check out the live version [here]()
+Check out the live version [here](https://markdown-previewer-five-zeta.vercel.app/)
 
 ## 📚 Markdown Cheatsheet
 
